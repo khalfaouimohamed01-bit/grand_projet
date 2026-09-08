@@ -68,7 +68,7 @@ public class LoginTest {
 
     }
     @Test
-            void ajoutproduit(){
+            void ajoutproduits(){
 
         loginPage.login("standard_user", "secret_sauce");
         productsPage.premierArticle();

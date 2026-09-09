@@ -32,7 +32,7 @@ public class LoginTest {
    @Test
     void verifok(){
 
-       assertEquals ( "Swag Labs",driver.getTitle());
+       assertEquals ( "FAUX",driver.getTitle());
 
    }
 
